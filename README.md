@@ -1,1 +1,2 @@
-In this repository we will work more about Bash projects and shell navigation
+shell redirections
+./0-hello_world : prints “Hello, World”
